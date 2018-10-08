@@ -1,0 +1,90 @@
+body{
+	background-image:url('assets/img/bg/slider.png');
+    background-size:cover;
+    color:#fffff;
+    text-transform:uppercase;
+}
+.bc{
+	background-image:url('assets/img/bg/slider.png');
+	 background-size:cover;
+}
+.Student
+{
+	
+	cursor:pointer;
+}
+.Admin
+{
+	
+	cursor:pointer;
+}
+
+button
+{
+	
+	border:none;
+	border-radius:12px;
+	display:inline-block;
+	
+}
+#shown{
+	
+	font-weight: bold;
+	margin-top: 5%;
+	margin-bottom:5%; 
+	border: medium solid rgb(120, 34, 210); 
+	border-radius: 10%; 
+	width: 50% !important;
+}
+#show
+{
+	
+	font-weight: bold;
+	text-align:center;
+	margin-top: 10%; 
+	border: medium solid rgb(120, 34, 210); 
+	border-radius: 10%; 
+	width: 40%;
+}
+#e1
+{
+	margin-top:2%;
+}
+logo
+{
+
+	shadow:15px;
+	width:100px;
+	
+}
+.f2{
+	text-align:center;
+}
+#w1
+{
+	text-align:center;
+}
+.tp
+{
+	
+	color:#fff;
+	font-family: initial;
+}
+#q1
+{
+	width:50%;
+	border-radius: 10%;
+	padding:5%;
+	margin:1%;
+	border: medium solid rgb(120, 34, 210); 
+}
+#s1
+{
+	font-weight: bold;
+	font-family: initial;
+	text-align:center;
+	color:#fff;
+}
+.btn{
+	display: inline-block !important;
+}

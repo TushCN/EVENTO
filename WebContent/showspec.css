@@ -1,0 +1,40 @@
+.yy{
+	background-image:url('assets/img/bg/slider.png');
+    background-size:cover;
+    color:#fff;
+    text-transform:uppercase;
+    font-family: initial;
+    font-weight: bold;
+}
+
+#sq
+{
+	background-image:url('assets/img/bg/slider.png');
+	margin:10%;
+	text-color:#fff;
+	border: 1px solid; 
+	border-radius: 5%; 
+ width:auto;
+ height:auto;
+	align-content: center; 
+	margin-left: 25%; 
+	margin-top: 15%; 
+}
+
+
+.id{
+	text-align:center;
+	 color:#fff;
+    text-transform:uppercase;
+    font-family: initial;
+    font-weight: bold;
+}
+.ip{
+	text-align:center;
+}
+.p1{
+	color:#CCFF66;
+}
+.ia{
+	margin-top:5px !important;
+}
